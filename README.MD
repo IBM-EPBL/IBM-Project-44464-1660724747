@@ -26,7 +26,7 @@ PNT2022TMID18036
 
 - [Ramyadevi RS](https://github.com/ramya-RS) Team Leader
 - [Samyuktha V](https://github.com/samyukthavenugopal) Team Member 1 
-- [Srija J](#) Team Member 2
+- [Srija J](https://github.com/srija1012) Team Member 2
 - [Subiksha R](https://github.com/Subixshaa) Team Member 3 
 
 ## Uploading Assignment
