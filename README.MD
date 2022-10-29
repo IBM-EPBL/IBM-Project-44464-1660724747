@@ -1,5 +1,5 @@
 # Smart Fashion Recommender Application
-
+# IBM-Project-44464-1660724747
 A Smart Application that recommend products based on user preferences.
 
 ## 🔗 Links
@@ -29,8 +29,3 @@ PNT2022TMID18036
 - [Srija J](https://github.com/srija1012) Team Member 2
 - [Subiksha R](https://github.com/Subixshaa) Team Member 3 
 
-## Uploading Assignment
-
-To upload your task
-
-<b><i>Assignments > {Your Name} > {assignment file}<i></b>
