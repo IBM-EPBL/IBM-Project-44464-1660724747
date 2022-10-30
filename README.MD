@@ -19,8 +19,8 @@
 
 - [Team Leader : RAMYADEVI RS](https://github.com/IBM-EPBL/IBM-Project-44464-1660724747/tree/main/Assignments/Ramyadevi%20RS%20(Team%20Lead))
 - [Team member : SAMYUKTHA V](https://github.com/IBM-EPBL/IBM-Project-44464-1660724747/tree/main/Assignments/Samyuktha%20V%20(Team%20Member%201))
-- [Team member : SRIJA J](#)
-- [Team member : SUBIKSHA R](#)
+- [Team member : SRIJA J](https://github.com/IBM-EPBL/IBM-Project-44464-1660724747/tree/main/Assignments/Srija%20J%20(Team%20Member%202))
+- [Team member : SUBIKSHA R](https://github.com/IBM-EPBL/IBM-Project-44464-1660724747/tree/main/Assignments/Subiksha%20R%20(Team%20Member%203))
 
 ## Project Design & Planning
 
