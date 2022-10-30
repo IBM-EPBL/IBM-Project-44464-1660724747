@@ -8,7 +8,7 @@
 
 **Team Leader :** - [RAMYADEVI RS](https://github.com/ramya-RS) 
 
-**Team member :** - [SAMYUKTHA V](https://github.com/samyukthavenugopal)
+**Team member :** - 713319CS124 [SAMYUKTHA V](https://github.com/samyukthavenugopal)
 
 **Team member :** - [SRIJA J](https://github.com/srija1012) 
 
@@ -17,10 +17,10 @@
 
 ## Assignments
 
- - [Team Leader : RAMYADEVI RS](#)
- - [Team member : SAMYUKTHA V](#)
- - [Team member : SRIJA J](#)
- - [Team member : SUBIKSHA R](#)
+- [Team Leader : RAMYADEVI RS](#)
+- [Team member : SAMYUKTHA V](#)
+- [Team member : SRIJA J](#)
+- [Team member : SUBIKSHA R](#)
 
 ## Project Design & Planning
 
@@ -31,9 +31,3 @@
 
 ## Project Development Phase
 - [Project Development Phase](https://github.com/IBM-EPBL/IBM-Project-5252-1658752657/tree/main/Project%20Development%20Phase)
-
----
-
-
-
-
