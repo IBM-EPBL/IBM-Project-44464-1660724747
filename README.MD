@@ -17,7 +17,7 @@
 
 ## Assignments
 
-- [Team Leader : RAMYADEVI RS](#)
+- [Team Leader : RAMYADEVI RS](https://github.com/IBM-EPBL/IBM-Project-44464-1660724747/tree/main/Assignments/Ramyadevi%20RS%20(Team%20Lead))
 - [Team member : SAMYUKTHA V](https://github.com/IBM-EPBL/IBM-Project-44464-1660724747/tree/main/Assignments/Samyuktha%20V%20(Team%20Member%201))
 - [Team member : SRIJA J](#)
 - [Team member : SUBIKSHA R](#)
