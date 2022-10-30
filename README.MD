@@ -1,7 +1,6 @@
 # Smart Fashion Recommender Application
 # IBM-Project-44464-1660724747
 
----
 
 **Batch Name :** B7-1A3E
 
@@ -15,7 +14,6 @@
 
 **Team member :** - [SUBIKSHA R](https://github.com/Subixshaa) 
 
----
 
 ## Assignments
 
