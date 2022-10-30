@@ -25,7 +25,7 @@
 ## Project Design & Planning
 
 - [Ideation Phase](https://github.com/IBM-EPBL/IBM-Project-44464-1660724747/tree/main/Project%20Design%20%26%20Planning/Ideation%20Phase)
-- [Project Design Phase 1](https://github.com/IBM-EPBL/IBM-Project-40862-1660636795/tree/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%201)
+- [Project Design Phase 1](https://github.com/IBM-EPBL/IBM-Project-44464-1660724747/tree/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%201)
 - [Project Design Phase II](https://github.com/IBM-EPBL/IBM-Project-40862-1660636795/tree/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%20II)
 - [Project Planning](https://github.com/IBM-EPBL/IBM-Project-40862-1660636795/tree/main/Project%20Design%20%26%20Planning/Project%20Planning)
 
