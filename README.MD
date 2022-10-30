@@ -6,13 +6,13 @@
 
 **Team ID :** PNT2022TMID18036
 
-**Team Leader :** - [RAMYADEVI RS](https://github.com/ramya-RS) 
+**Team Leader :** - 713319CS116 [RAMYADEVI RS](https://github.com/ramya-RS) 
 
 **Team member :** - 713319CS124 [SAMYUKTHA V](https://github.com/samyukthavenugopal)
 
-**Team member :** - [SRIJA J](https://github.com/srija1012) 
+**Team member :** - 713319CS143 [SRIJA J](https://github.com/srija1012) 
 
-**Team member :** - [SUBIKSHA R](https://github.com/Subixshaa) 
+**Team member :** - 713319CS147 [SUBIKSHA R](https://github.com/Subixshaa) 
 
 
 ## Assignments
