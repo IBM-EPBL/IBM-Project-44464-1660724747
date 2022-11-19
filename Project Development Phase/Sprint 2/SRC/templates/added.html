@@ -1,0 +1,16 @@
+<center><h3>Order Placed Successfully. Item Name : {{pro_name1}}</h3>
+
+<h4>Redirecting to Shopping Page... </h4></center>
+
+<script>
+function sleep(ms) {
+  return new Promise(
+    resolve => setTimeout(resolve, ms)
+  );
+}
+async function delayedGreeting() {
+    await sleep(2000)
+    location.replace('../../shop/')
+}
+delayedGreeting();
+</script>
