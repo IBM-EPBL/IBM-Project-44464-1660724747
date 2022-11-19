@@ -1,9 +1,9 @@
 # Smart Fashion Recommender Application
 # IBM-Project-44464-1660724747
 
-**Batch Name :** B7-1A3E
+**Batch Name  :** B7-1A3E
 
-**Team ID :** PNT2022TMID18036
+**Team ID     :** PNT2022TMID18036
 
 **Team Leader :**  713319CS116 [RAMYADEVI RS](https://github.com/ramya-RS) 
 
